@@ -1,0 +1,1267 @@
+2025-08-28T03:04:34: PM2 log: ===============================================================================
+2025-08-28T03:04:34: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-08-28T03:04:34: PM2 log: Time                 : Thu Aug 28 2025 03:04:34 GMT+0000 (Coordinated Universal Time)
+2025-08-28T03:04:34: PM2 log: PM2 version          : 6.0.8
+2025-08-28T03:04:34: PM2 log: Node.js version      : 12.22.9
+2025-08-28T03:04:34: PM2 log: Current arch         : x64
+2025-08-28T03:04:34: PM2 log: PM2 home             : /home/ubuntu/.pm2
+2025-08-28T03:04:34: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2025-08-28T03:04:34: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2025-08-28T03:04:34: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2025-08-28T03:04:34: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+2025-08-28T03:04:34: PM2 log: Worker Interval      : 30000
+2025-08-28T03:04:34: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2025-08-28T03:04:34: PM2 log: Concurrent actions   : 2
+2025-08-28T03:04:34: PM2 log: SIGTERM timeout      : 1600
+2025-08-28T03:04:34: PM2 log: Runtime Binary       : /usr/bin/node
+2025-08-28T03:04:34: PM2 log: ===============================================================================
+2025-08-28T03:04:34: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:34: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:34: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:34: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:34: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:34: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:34: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:34: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:35: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:04:36: PM2 log: App [dashboard-api:0] exited with code [1] via signal [SIGINT]
+2025-08-28T03:04:36: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-08-28T03:08:09: PM2 log: Stopping app:dashboard-api id:0
+2025-08-28T03:08:09: PM2 error: app=dashboard-api id=0 does not have a pid
+2025-08-28T03:08:56: PM2 log: App [dashboard-api:0] starting in -fork mode-
+2025-08-28T03:08:56: PM2 log: App [dashboard-api:0] online
+2025-08-28T03:14:05: PM2 log: App [deepdiveApi:1] starting in -fork mode-
+2025-08-28T03:14:05: PM2 log: App [deepdiveApi:1] online
+2025-08-28T03:15:35: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:35: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:36: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:36: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:36: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:37: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:37: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:37: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:37: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:37: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:37: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:38: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:38: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:38: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:38: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:38: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:38: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:39: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:39: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:39: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:39: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:39: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:39: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:40: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:40: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:40: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:40: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:41: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:41: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:41: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:41: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:41: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:42: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:42: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:42: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:42: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:42: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:42: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:43: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:43: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:43: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:43: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:43: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:43: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:44: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:44: PM2 log: App [savings-api:2] starting in -fork mode-
+2025-08-28T03:15:44: PM2 log: App [savings-api:2] online
+2025-08-28T03:15:45: PM2 log: App [savings-api:2] exited with code [1] via signal [SIGINT]
+2025-08-28T03:15:45: PM2 log: Script /usr/bin/uvicorn had too many unstable restarts (16). Stopped. "errored"
+2025-08-28T03:17:43: PM2 error: 342624 : id unknown
+2025-08-28T03:19:47: PM2 log: Stopping app:savings-api id:2
+2025-08-28T03:19:47: PM2 error: app=savings-api id=2 does not have a pid
+2025-08-28T03:21:14: PM2 log: App [savings-api:3] starting in -fork mode-
+2025-08-28T03:21:14: PM2 log: App [savings-api:3] online
+2025-08-28T05:08:58: PM2 log: App [compliance-api:4] starting in -fork mode-
+2025-08-28T05:08:58: PM2 log: App [compliance-api:4] online
+2025-08-28T05:10:19: PM2 log: Stopping app:compliance-api id:4
+2025-08-28T05:10:19: PM2 log: pid=343483 msg=failed to kill - retrying in 100ms
+2025-08-28T05:10:19: PM2 log: App [compliance-api:4] exited with code [0] via signal [SIGINT]
+2025-08-28T05:10:19: PM2 log: pid=343483 msg=process killed
+2025-08-28T05:24:56: PM2 log: App [compliance-api:5] starting in -fork mode-
+2025-08-28T05:24:56: PM2 log: App [compliance-api:5] online
+2025-08-28T08:45:41: PM2 log: Stopping app:savings-api id:3
+2025-08-28T08:45:41: PM2 log: pid=342711 msg=failed to kill - retrying in 100ms
+2025-08-28T08:45:41: PM2 log: pid=342711 msg=failed to kill - retrying in 100ms
+2025-08-28T08:45:41: PM2 log: App [savings-api:3] exited with code [0] via signal [SIGINT]
+2025-08-28T08:45:41: PM2 log: pid=342711 msg=process killed
+2025-08-28T08:46:56: PM2 log: App [savings-api:6] starting in -fork mode-
+2025-08-28T08:46:56: PM2 log: App [savings-api:6] online
+2025-08-28T09:34:17: PM2 log: Stopping app:savings-api id:6
+2025-08-28T09:34:18: PM2 log: pid=347607 msg=failed to kill - retrying in 100ms
+2025-08-28T09:34:18: PM2 log: pid=347607 msg=failed to kill - retrying in 100ms
+2025-08-28T09:34:18: PM2 log: App [savings-api:6] exited with code [0] via signal [SIGINT]
+2025-08-28T09:34:18: PM2 log: pid=347607 msg=process killed
+2025-08-28T09:34:31: PM2 log: App [savings-api:7] starting in -fork mode-
+2025-08-28T09:34:31: PM2 log: App [savings-api:7] online
+2025-09-02T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-02T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.9
+2025-09-02T11:01:09: PM2 log: Stopping app:dashboard-api id:0
+2025-09-02T11:01:10: PM2 log: pid=342567 msg=failed to kill - retrying in 100ms
+2025-09-02T11:01:10: PM2 log: pid=342567 msg=failed to kill - retrying in 100ms
+2025-09-02T11:01:10: PM2 log: App [dashboard-api:0] exited with code [0] via signal [SIGINT]
+2025-09-02T11:01:10: PM2 log: pid=342567 msg=process killed
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:26: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:27: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:28: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:28: PM2 log: App [finaldashboardapi:8] starting in -fork mode-
+2025-09-02T11:01:28: PM2 log: App [finaldashboardapi:8] online
+2025-09-02T11:01:28: PM2 log: App [finaldashboardapi:8] exited with code [1] via signal [SIGINT]
+2025-09-02T11:01:28: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-09-02T11:02:42: PM2 log: Stopping app:finaldashboardapi id:8
+2025-09-02T11:02:42: PM2 error: app=finaldashboardapi id=8 does not have a pid
+2025-09-02T11:03:19: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:19: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:19: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:19: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:19: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:20: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] starting in -fork mode-
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] online
+2025-09-02T11:03:21: PM2 log: App [finaldashboardapi:9] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:21: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-09-02T11:03:46: PM2 log: Stopping app:finaldashboardapi id:9
+2025-09-02T11:03:46: PM2 error: app=finaldashboardapi id=9 does not have a pid
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:50: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:51: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:52: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:52: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:52: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:52: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:52: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:52: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:52: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:52: PM2 log: App [finaldashboardapi:10] starting in -fork mode-
+2025-09-02T11:03:52: PM2 log: App [finaldashboardapi:10] online
+2025-09-02T11:03:52: PM2 log: App [finaldashboardapi:10] exited with code [1] via signal [SIGINT]
+2025-09-02T11:03:52: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-09-02T11:06:04: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:04: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:04: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:04: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:04: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:04: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:04: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:04: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:05: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] starting in -fork mode-
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] online
+2025-09-02T11:06:06: PM2 log: App [cm_fm_sb_dc_top5api:11] exited with code [1] via signal [SIGINT]
+2025-09-02T11:06:06: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-09-02T11:06:17: PM2 log: Stopping app:finaldashboardapi id:10
+2025-09-02T11:06:17: PM2 error: app=finaldashboardapi id=10 does not have a pid
+2025-09-02T11:07:48: PM2 log: Stopping app:cm_fm_sb_dc_top5api id:11
+2025-09-02T11:07:48: PM2 error: app=cm_fm_sb_dc_top5api id=11 does not have a pid
+2025-09-02T11:08:27: PM2 log: App [dashboard-api:12] starting in -fork mode-
+2025-09-02T11:08:27: PM2 log: App [dashboard-api:12] online
+2025-09-03T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-03T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-04T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-04T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-05T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-05T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-06T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-06T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-07T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-07T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-08T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-08T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-09T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-09T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-09T07:13:46: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:46: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:47: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] starting in -fork mode-
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] online
+2025-09-09T07:13:48: PM2 log: App [lastdashboardapi:13] exited with code [1] via signal [SIGINT]
+2025-09-09T07:13:48: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-09-09T07:15:45: PM2 error: 15 : id unknown
+2025-09-09T07:15:45: PM2 error: Trace: Error: 15 : id unknown
+    at Object.God.logAndGenerateError (/usr/local/lib/node_modules/pm2/lib/God/Methods.js:39:12)
+    at Object.God.stopProcessId (/usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:289:21)
+    at God.deleteProcessId (/usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:366:9)
+    at Server.onmessage (/usr/local/lib/node_modules/pm2/node_modules/pm2-axon-rpc/lib/server.js:104:6)
+    at RepSocket.emit (events.js:314:20)
+    at RepSocket.EventEmitter.emit (domain.js:483:12)
+    at Parser.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pm2-axon/lib/sockets/rep.js:51:15)
+    at Parser.emit (events.js:314:20)
+    at Parser.EventEmitter.emit (domain.js:506:15)
+    at Parser._write (/usr/local/lib/node_modules/pm2/node_modules/amp/lib/stream.js:91:16)
+    at Object.God.logAndGenerateError (/usr/local/lib/node_modules/pm2/lib/God/Methods.js:34:15)
+    at /usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:367:30
+    at Object.God.stopProcessId (/usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:289:14)
+    at God.deleteProcessId (/usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:366:9)
+    at Server.onmessage (/usr/local/lib/node_modules/pm2/node_modules/pm2-axon-rpc/lib/server.js:104:6)
+    at RepSocket.emit (events.js:314:20)
+    at RepSocket.EventEmitter.emit (domain.js:483:12)
+    at Parser.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pm2-axon/lib/sockets/rep.js:51:15)
+    at Parser.emit (events.js:314:20)
+    at Parser.EventEmitter.emit (domain.js:506:15)
+2025-09-09T07:16:08: PM2 log: Stopping app:lastdashboardapi id:13
+2025-09-09T07:16:08: PM2 error: app=lastdashboardapi id=13 does not have a pid
+2025-09-09T07:16:38: PM2 log: Stopping app:dashboard-api id:12
+2025-09-09T07:16:39: PM2 log: pid=403692 msg=failed to kill - retrying in 100ms
+2025-09-09T07:16:39: PM2 log: pid=403692 msg=failed to kill - retrying in 100ms
+2025-09-09T07:16:39: PM2 log: App [dashboard-api:12] exited with code [0] via signal [SIGINT]
+2025-09-09T07:16:39: PM2 log: pid=403692 msg=process killed
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:19: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:20: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:21: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:21: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:21: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:21: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:21: PM2 log: App [dashboardapi:14] starting in -fork mode-
+2025-09-09T07:17:21: PM2 log: App [dashboardapi:14] online
+2025-09-09T07:17:21: PM2 log: App [dashboardapi:14] exited with code [1] via signal [SIGINT]
+2025-09-09T07:17:21: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-09-09T07:18:19: PM2 log: Stopping app:dashboardapi id:14
+2025-09-09T07:18:19: PM2 error: app=dashboardapi id=14 does not have a pid
+2025-09-09T07:18:24: PM2 log: App [dashboardapi:15] starting in -fork mode-
+2025-09-09T07:18:24: PM2 log: App [dashboardapi:15] online
+2025-09-09T07:21:59: PM2 log: Stopping app:dashboardapi id:15
+2025-09-09T07:21:59: PM2 log: pid=456082 msg=failed to kill - retrying in 100ms
+2025-09-09T07:22:00: PM2 log: pid=456082 msg=failed to kill - retrying in 100ms
+2025-09-09T07:22:00: PM2 log: pid=456082 msg=failed to kill - retrying in 100ms
+2025-09-09T07:22:00: PM2 log: App [dashboardapi:15] exited with code [0] via signal [SIGINT]
+2025-09-09T07:22:00: PM2 log: pid=456082 msg=process killed
+2025-09-09T07:22:31: PM2 log: App [dashboardapi:16] starting in -fork mode-
+2025-09-09T07:22:31: PM2 log: App [dashboardapi:16] online
+2025-09-09T11:03:32: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:32: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:32: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:32: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:32: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:33: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:33: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:33: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:33: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:33: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:33: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:34: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:34: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:34: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:35: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:35: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:35: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:35: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:35: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:35: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:36: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:36: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:36: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:36: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:36: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:36: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:37: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:37: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:37: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:37: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:37: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:37: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:38: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:38: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:38: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:39: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:39: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:39: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:39: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:39: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:39: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:40: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:40: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:40: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:40: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:40: PM2 log: App [dashboardapi:17] starting in -fork mode-
+2025-09-09T11:03:40: PM2 log: App [dashboardapi:17] online
+2025-09-09T11:03:41: PM2 log: App [dashboardapi:17] exited with code [1] via signal [SIGINT]
+2025-09-09T11:03:41: PM2 log: Script /usr/bin/uvicorn had too many unstable restarts (16). Stopped. "errored"
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] online
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] online
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] online
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:20:59: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:00: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:01: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:01: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:01: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:01: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:01: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:01: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:01: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:01: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:01: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:02: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:02: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:02: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:02: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:02: PM2 log: App [performance-api:18] starting in -fork mode-
+2025-09-09T12:21:02: PM2 log: App [performance-api:18] online
+2025-09-09T12:21:02: PM2 log: App [performance-api:18] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:02: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:35: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:36: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:37: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:37: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:37: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:37: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:37: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:37: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:37: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:37: PM2 log: App [performance-api:19] starting in -fork mode-
+2025-09-09T12:21:37: PM2 log: App [performance-api:19] online
+2025-09-09T12:21:37: PM2 log: App [performance-api:19] exited with code [1] via signal [SIGINT]
+2025-09-09T12:21:37: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-09-09T12:24:51: PM2 log: Stopping app:performance-api id:18
+2025-09-09T12:24:51: PM2 error: app=performance-api id=18 does not have a pid
+2025-09-09T12:25:08: PM2 log: Stopping app:performance-api id:19
+2025-09-09T12:25:08: PM2 error: app=performance-api id=19 does not have a pid
+2025-09-09T12:28:19: PM2 log: Stopping app:dashboardapi id:17
+2025-09-09T12:28:19: PM2 error: app=dashboardapi id=17 does not have a pid
+2025-09-09T12:44:53: PM2 log: Stopping app:dashboardapi id:16
+2025-09-09T12:44:53: PM2 log: pid=456127 msg=failed to kill - retrying in 100ms
+2025-09-09T12:44:53: PM2 log: pid=456127 msg=failed to kill - retrying in 100ms
+2025-09-09T12:44:53: PM2 log: App [dashboardapi:16] exited with code [0] via signal [SIGINT]
+2025-09-09T12:44:53: PM2 log: pid=456127 msg=process killed
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:36: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:37: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:38: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:38: PM2 log: App [performance-api:20] starting in -fork mode-
+2025-09-09T12:45:38: PM2 log: App [performance-api:20] online
+2025-09-09T12:45:38: PM2 log: App [performance-api:20] exited with code [1] via signal [SIGINT]
+2025-09-09T12:45:38: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-09-09T13:09:08: PM2 log: App [dashboardapi:21] starting in -fork mode-
+2025-09-09T13:09:08: PM2 log: App [dashboardapi:21] online
+2025-09-10T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-10T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-11T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-11T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-11T06:13:21: PM2 log: Stopping app:dashboardapi id:21
+2025-09-11T06:13:21: PM2 log: pid=458681 msg=failed to kill - retrying in 100ms
+2025-09-11T06:13:21: PM2 log: pid=458681 msg=failed to kill - retrying in 100ms
+2025-09-11T06:13:21: PM2 log: App [dashboardapi:21] exited with code [0] via signal [SIGINT]
+2025-09-11T06:13:21: PM2 log: pid=458681 msg=process killed
+2025-09-11T06:14:23: PM2 log: App [maindashboardapi:22] starting in -fork mode-
+2025-09-11T06:14:23: PM2 log: App [maindashboardapi:22] online
+2025-09-11T06:16:29: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:29: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:30: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:30: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:30: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:31: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:31: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:31: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:31: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:31: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:31: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:32: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:32: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:32: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:32: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:32: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:32: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:33: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:33: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:33: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:34: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:34: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:34: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:34: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:34: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:34: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:35: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:35: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:35: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:35: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:35: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:35: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:36: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:36: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:36: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:37: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:37: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:37: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:37: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:37: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:37: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:38: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:38: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:38: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:38: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:38: PM2 log: App [Performanceapi:23] starting in -fork mode-
+2025-09-11T06:16:38: PM2 log: App [Performanceapi:23] online
+2025-09-11T06:16:39: PM2 log: App [Performanceapi:23] exited with code [1] via signal [SIGINT]
+2025-09-11T06:16:39: PM2 log: Script /usr/bin/uvicorn had too many unstable restarts (16). Stopped. "errored"
+2025-09-11T06:17:03: PM2 log: Stopping app:performance-api id:20
+2025-09-11T06:17:03: PM2 error: app=performance-api id=20 does not have a pid
+2025-09-11T06:25:17: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:17: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:17: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:17: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:17: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:18: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:18: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:18: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:19: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:19: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:19: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:19: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:19: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:19: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:20: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:20: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:20: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:20: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:20: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:20: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:21: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:21: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:21: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:21: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:21: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:21: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:22: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:22: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:22: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:23: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:23: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:23: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:23: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:23: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:23: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:24: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:24: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:24: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:24: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:24: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:24: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:25: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:25: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:25: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:25: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:25: PM2 log: App [performance-api:24] starting in -fork mode-
+2025-09-11T06:25:25: PM2 log: App [performance-api:24] online
+2025-09-11T06:25:26: PM2 log: App [performance-api:24] exited with code [1] via signal [SIGINT]
+2025-09-11T06:25:26: PM2 log: Script /usr/bin/uvicorn had too many unstable restarts (16). Stopped. "errored"
+2025-09-11T06:25:26: PM2 log: Stopping app:Performanceapi id:23
+2025-09-11T06:25:26: PM2 error: app=Performanceapi id=23 does not have a pid
+2025-09-11T06:27:04: PM2 log: Stopping app:performance-api id:24
+2025-09-11T06:27:04: PM2 error: app=performance-api id=24 does not have a pid
+2025-09-11T06:27:12: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:12: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:12: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:12: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:12: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:13: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] starting in -fork mode-
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] online
+2025-09-11T06:27:14: PM2 log: App [performance-api:25] exited with code [1] via signal [SIGINT]
+2025-09-11T06:27:14: PM2 log: Script /usr/bin/bash had too many unstable restarts (16). Stopped. "errored"
+2025-09-11T06:29:04: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:04: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:05: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:06: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:07: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:08: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:08: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:08: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:08: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:08: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:08: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:08: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:08: PM2 log: App [performance-api:26] starting in -fork mode-
+2025-09-11T06:29:08: PM2 log: App [performance-api:26] online
+2025-09-11T06:29:08: PM2 log: App [performance-api:26] exited with code [1] via signal [SIGINT]
+2025-09-11T06:29:08: PM2 log: Script /usr/bin/uvicorn had too many unstable restarts (16). Stopped. "errored"
+2025-09-11T06:29:18: PM2 log: Stopping app:performance-api id:25
+2025-09-11T06:29:18: PM2 error: app=performance-api id=25 does not have a pid
+2025-09-11T06:33:16: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:16: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:17: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:17: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:17: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:17: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:17: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:17: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:18: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:18: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:18: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:18: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:18: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:18: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:19: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:19: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:19: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:19: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:19: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:19: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:20: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:20: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:20: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:21: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:21: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:21: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:21: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:21: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:21: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:22: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:22: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:22: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:22: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:22: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:22: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:23: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:23: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:23: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:23: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:23: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:23: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:24: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:24: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:24: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:24: PM2 log: Stopping app:performance-api id:26
+2025-09-11T06:33:24: PM2 error: app=performance-api id=26 does not have a pid
+2025-09-11T06:33:25: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:25: PM2 log: App [performance-api:27] starting in -fork mode-
+2025-09-11T06:33:25: PM2 log: App [performance-api:27] online
+2025-09-11T06:33:25: PM2 log: App [performance-api:27] exited with code [1] via signal [SIGINT]
+2025-09-11T06:33:25: PM2 log: Script /usr/bin/uvicorn had too many unstable restarts (16). Stopped. "errored"
+2025-09-11T06:38:52: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:52: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:52: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:52: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:52: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:52: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:52: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:52: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:53: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:54: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:55: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:56: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:56: PM2 log: App [performance-api:28] starting in -fork mode-
+2025-09-11T06:38:56: PM2 log: App [performance-api:28] online
+2025-09-11T06:38:56: PM2 log: App [performance-api:28] exited with code [1] via signal [SIGINT]
+2025-09-11T06:38:56: PM2 log: Script /usr/bin/uvicorn had too many unstable restarts (16). Stopped. "errored"
+2025-09-11T06:39:00: PM2 log: Stopping app:performance-api id:27
+2025-09-11T06:39:00: PM2 error: app=performance-api id=27 does not have a pid
+2025-09-11T06:39:07: PM2 log: Stopping app:performance-api id:28
+2025-09-11T06:39:07: PM2 error: app=performance-api id=28 does not have a pid
+2025-09-11T06:40:37: PM2 log: App [Performance_api:29] starting in -fork mode-
+2025-09-11T06:40:37: PM2 log: App [Performance_api:29] online
+2025-09-12T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-12T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-13T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-13T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-14T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-14T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-15T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-15T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.10
+2025-09-16T03:04:35: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-16T03:04:35: PM2 log: [PM2] Upgrade to version 6.0.11
+2025-09-17T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-17T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.11
+2025-09-18T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-18T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.11
+2025-09-18T17:23:26: PM2 log: App [tags_api:30] starting in -fork mode-
+2025-09-18T17:23:26: PM2 log: App [tags_api:30] online
+2025-09-18T17:26:16: PM2 log: Stopping app:tags_api id:30
+2025-09-18T17:26:16: PM2 log: pid=536794 msg=failed to kill - retrying in 100ms
+2025-09-18T17:26:16: PM2 log: pid=536794 msg=failed to kill - retrying in 100ms
+2025-09-18T17:26:16: PM2 log: App [tags_api:30] exited with code [0] via signal [SIGINT]
+2025-09-18T17:26:16: PM2 log: pid=536794 msg=process killed
+2025-09-18T17:26:22: PM2 log: App [tags_api:31] starting in -fork mode-
+2025-09-18T17:26:22: PM2 log: App [tags_api:31] online
+2025-09-19T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-19T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.11
+2025-09-20T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-20T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.11
+2025-09-21T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-21T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.11
+2025-09-22T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-22T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.11
+2025-09-23T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-23T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.13
+2025-09-23T07:30:15: PM2 log: App [modifiedDashboard_api:32] starting in -fork mode-
+2025-09-23T07:30:15: PM2 log: App [modifiedDashboard_api:32] online
+2025-09-24T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-24T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.13
+2025-09-24T06:07:33: PM2 log: App [modifiedDashboard_api:33] starting in -fork mode-
+2025-09-24T06:07:33: PM2 log: App [modifiedDashboard_api:33] online
+2025-09-24T06:20:43: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:43: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:44: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:44: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:44: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:45: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:45: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:45: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:45: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:45: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:45: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:46: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:46: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:46: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:46: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:46: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:46: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:47: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:47: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:47: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:47: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:47: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:47: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:48: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:48: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:48: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:49: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:49: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:49: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:49: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:49: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:49: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:50: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:50: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:50: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:50: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:50: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:50: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:51: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:51: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:51: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:52: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:52: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:52: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:52: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:52: PM2 log: App [modifiedDashboard_api:34] starting in -fork mode-
+2025-09-24T06:20:52: PM2 log: App [modifiedDashboard_api:34] online
+2025-09-24T06:20:53: PM2 log: App [modifiedDashboard_api:34] exited with code [1] via signal [SIGINT]
+2025-09-24T06:20:53: PM2 log: Script /usr/bin/uvicorn had too many unstable restarts (16). Stopped. "errored"
+2025-09-24T06:21:07: PM2 log: Stopping app:modifiedDashboard_api id:34
+2025-09-24T06:21:07: PM2 error: app=modifiedDashboard_api id=34 does not have a pid
+2025-09-24T06:22:10: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:10: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:11: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:11: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:11: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:12: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:12: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:12: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:12: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:12: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:12: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:13: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:13: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:13: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:13: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:13: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:13: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:14: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:14: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:14: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:15: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:15: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:15: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:15: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:15: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:15: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:16: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:16: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:16: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:16: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:16: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:16: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:17: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:17: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:17: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:17: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:17: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:17: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:18: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:18: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:18: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:19: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:19: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:19: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:19: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:19: PM2 log: App [newDashboard_api:35] starting in -fork mode-
+2025-09-24T06:22:19: PM2 log: App [newDashboard_api:35] online
+2025-09-24T06:22:20: PM2 log: App [newDashboard_api:35] exited with code [1] via signal [SIGINT]
+2025-09-24T06:22:20: PM2 log: Script /usr/bin/uvicorn had too many unstable restarts (16). Stopped. "errored"
+2025-09-24T06:46:34: PM2 log: Stopping app:newDashboard_api id:35
+2025-09-24T06:46:34: PM2 error: app=newDashboard_api id=35 does not have a pid
+2025-09-24T06:46:52: PM2 log: Stopping app:savings-api id:7
+2025-09-24T06:46:52: PM2 log: pid=348120 msg=failed to kill - retrying in 100ms
+2025-09-24T06:46:52: PM2 log: pid=348120 msg=failed to kill - retrying in 100ms
+2025-09-24T06:46:52: PM2 log: App [savings-api:7] exited with code [0] via signal [SIGINT]
+2025-09-24T06:46:52: PM2 log: pid=348120 msg=process killed
+2025-09-24T06:48:18: PM2 log: App [savings_api:36] starting in -fork mode-
+2025-09-24T06:48:18: PM2 log: App [savings_api:36] online
+2025-09-24T06:58:56: PM2 log: Stopping app:savings_api id:36
+2025-09-24T06:58:57: PM2 log: pid=592945 msg=failed to kill - retrying in 100ms
+2025-09-24T06:58:57: PM2 log: pid=592945 msg=failed to kill - retrying in 100ms
+2025-09-24T06:58:57: PM2 log: App [savings_api:36] exited with code [0] via signal [SIGINT]
+2025-09-24T06:58:57: PM2 log: pid=592945 msg=process killed
+2025-09-24T06:59:27: PM2 log: App [savings_api:37] starting in -fork mode-
+2025-09-24T06:59:27: PM2 log: App [savings_api:37] online
+2025-09-24T07:03:42: PM2 log: Stopping app:savings_api id:37
+2025-09-24T07:03:42: PM2 log: pid=602072 msg=failed to kill - retrying in 100ms
+2025-09-24T07:03:42: PM2 log: pid=602072 msg=failed to kill - retrying in 100ms
+2025-09-24T07:03:42: PM2 log: App [savings_api:37] exited with code [0] via signal [SIGINT]
+2025-09-24T07:03:42: PM2 log: pid=602072 msg=process killed
+2025-09-24T07:03:55: PM2 log: App [savings_api:38] starting in -fork mode-
+2025-09-24T07:03:55: PM2 log: App [savings_api:38] online
+2025-09-24T08:31:49: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:49: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:50: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:50: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:50: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:51: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:51: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:51: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:51: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:51: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:51: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:52: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:52: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:52: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:52: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:52: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:52: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:53: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:53: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:53: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:54: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:54: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:54: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:54: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:54: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:54: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:55: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:55: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:55: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:55: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:55: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:55: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:56: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:56: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:56: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:57: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:57: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:57: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:57: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:57: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:57: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:58: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:58: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:58: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:59: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:59: PM2 log: App [finalDashboard_api:39] starting in -fork mode-
+2025-09-24T08:31:59: PM2 log: App [finalDashboard_api:39] online
+2025-09-24T08:31:59: PM2 log: App [finalDashboard_api:39] exited with code [1] via signal [SIGINT]
+2025-09-24T08:31:59: PM2 log: Script /usr/bin/uvicorn had too many unstable restarts (16). Stopped. "errored"
+2025-09-25T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-25T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.13
+2025-09-26T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-26T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.13
+2025-09-27T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-27T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.13
+2025-09-28T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-28T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.13
+2025-09-29T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-29T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.13
+2025-09-30T03:04:36: PM2 log: [PM2] This PM2 is not UP TO DATE
+2025-09-30T03:04:36: PM2 log: [PM2] Upgrade to version 6.0.13

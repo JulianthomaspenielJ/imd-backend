@@ -1,0 +1,47 @@
+INFO:     157.51.140.140:59249 - "GET /updcomplianceapi HTTP/1.1" 404 Not Found
+INFO:     157.51.140.140:59249 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     157.51.140.140:51841 - "GET /aws-data HTTP/1.1" 200 OK
+INFO:     106.222.196.180:15624 - "GET /aws-data HTTP/1.1" 200 OK
+INFO:     106.222.196.180:15624 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     195.184.76.5:58005 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.13:48731 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     106.222.197.212:26712 - "GET /aws-data HTTP/1.1" 200 OK
+INFO:     47.237.2.105:35746 - "GET / HTTP/1.0" 404 Not Found
+INFO:     47.237.2.105:35762 - "GET / HTTP/1.1" 404 Not Found
+INFO:     47.237.2.105:35766 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     106.222.197.212:10211 - "GET /aws-data HTTP/1.1" 200 OK
+INFO:     110.224.88.24:64698 - "GET /aws-data HTTP/1.1" 200 OK
+INFO:     110.224.88.24:64698 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     106.222.198.202:31801 - "GET /aws-data HTTP/1.1" 200 OK
+INFO:     195.184.76.65:33883 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.141:34967 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     195.184.76.245:38971 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.206:36075 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     47.254.195.155:56382 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.160.223.72:7553 - "GET / HTTP/1.1" 404 Not Found
+INFO:     138.128.223.252:51830 - "GET / HTTP/1.1" 404 Not Found
+INFO:     91.230.168.9:36259 - "GET / HTTP/1.1" 404 Not Found
+INFO:     8.211.48.80:38116 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.160.223.73:30062 - "GET / HTTP/1.1" 404 Not Found
+INFO:     121.29.178.35:60721 - "GET / HTTP/1.1" 404 Not Found
+INFO:     61.166.210.21:11466 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.175:47265 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.231:43103 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     195.184.76.5:34647 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.21:42591 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     106.222.197.89:9078 - "GET /aws-data HTTP/1.1" 200 OK
+INFO:     106.222.197.89:9078 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     195.184.76.132:45565 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.127:54641 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     185.247.137.121:34505 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.162:38973 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.163:45213 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     185.247.137.143:53869 - "GET / HTTP/1.1" 404 Not Found
+INFO:     195.184.76.29:52987 - "GET / HTTP/1.1" 404 Not Found
+INFO:     91.230.168.22:47361 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     8.211.45.42:27674 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.160.223.74:8801 - "GET / HTTP/1.1" 404 Not Found
+INFO:     45.33.12.214:56134 - "GET / HTTP/1.1" 404 Not Found
+INFO:     47.237.163.123:41540 - "GET / HTTP/1.0" 404 Not Found
+INFO:     47.237.163.123:41548 - "GET / HTTP/1.1" 404 Not Found
+INFO:     47.237.163.123:41554 - "GET /favicon.ico HTTP/1.1" 404 Not Found
